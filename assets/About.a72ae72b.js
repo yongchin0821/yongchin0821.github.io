@@ -1,0 +1,1 @@
+import o from"./about.97623ff5.js";import{d as e,o as r,c as t,u as a}from"./app.56094570.js";import"./postLoyout.bd04fd89.js";const f=e({__name:"About",setup(n){return(c,s)=>(r(),t(a(o)))}});export{f as default};
