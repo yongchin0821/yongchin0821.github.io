@@ -2740,265 +2740,265 @@
     "/assets/Reey-Regular.3347e10f.otf"
   ],
   "src/pages/About.vue": [
-    "/assets/About.a72ae72b.js"
+    "/assets/About.258d793d.js"
   ],
   "src/pages/posts/normal/about.md": [
-    "/assets/about.97623ff5.js"
+    "/assets/about.07a3fa88.js"
   ],
   "node_modules/@vicons/antd/es/CalendarOutlined.js": [
-    "/assets/postLoyout.bd04fd89.js"
+    "/assets/postLoyout.94361230.js"
   ],
   "src/components/postLoyout.vue": [
-    "/assets/postLoyout.bd04fd89.js"
+    "/assets/postLoyout.94361230.js"
   ],
   "node_modules/naive-ui/es/_internal/icons/ChevronLeft.js": [
-    "/assets/Artical.8c0dec4a.js",
+    "/assets/Artical.b7e97ccd.js",
     "/assets/Artical.0a50b7eb.css"
   ],
   "node_modules/naive-ui/es/collapse/src/styles/index.cssr.js": [
-    "/assets/Artical.8c0dec4a.js",
+    "/assets/Artical.b7e97ccd.js",
     "/assets/Artical.0a50b7eb.css"
   ],
   "node_modules/naive-ui/es/collapse/src/Collapse.js": [
-    "/assets/Artical.8c0dec4a.js",
+    "/assets/Artical.b7e97ccd.js",
     "/assets/Artical.0a50b7eb.css"
   ],
   "node_modules/naive-ui/es/collapse/src/CollapseItemContent.js": [
-    "/assets/Artical.8c0dec4a.js",
+    "/assets/Artical.b7e97ccd.js",
     "/assets/Artical.0a50b7eb.css"
   ],
   "node_modules/naive-ui/es/collapse/src/CollapseItem.js": [
-    "/assets/Artical.8c0dec4a.js",
+    "/assets/Artical.b7e97ccd.js",
     "/assets/Artical.0a50b7eb.css"
   ],
   "src/pages/Artical.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/Artical.8c0dec4a.js",
+    "/assets/Artical.b7e97ccd.js",
     "/assets/Artical.0a50b7eb.css"
   ],
   "src/pages/Artical.vue": [
-    "/assets/Artical.8c0dec4a.js",
+    "/assets/Artical.b7e97ccd.js",
     "/assets/Artical.0a50b7eb.css"
   ],
   "src/pages/GameRecord.vue?vue&type=style&index=0&lang.css": [
-    "/assets/GameRecord.be8c85f7.js",
+    "/assets/GameRecord.e72dbc60.js",
     "/assets/GameRecord.fd651a98.css"
   ],
   "src/pages/GameRecord.vue": [
-    "/assets/GameRecord.be8c85f7.js",
+    "/assets/GameRecord.e72dbc60.js",
     "/assets/GameRecord.fd651a98.css"
   ],
   "node_modules/naive-ui/es/_utils/env/is-native-lazy-load.js": [
-    "/assets/Link.ad8ac02e.js",
+    "/assets/Link.2fafc10b.js",
     "/assets/Link.3f81ee1f.css"
   ],
   "node_modules/naive-ui/es/image/src/utils.js": [
-    "/assets/Link.ad8ac02e.js",
+    "/assets/Link.2fafc10b.js",
     "/assets/Link.3f81ee1f.css"
   ],
   "node_modules/naive-ui/es/avatar/src/context.js": [
-    "/assets/Link.ad8ac02e.js",
+    "/assets/Link.2fafc10b.js",
     "/assets/Link.3f81ee1f.css"
   ],
   "node_modules/naive-ui/es/avatar/src/styles/index.cssr.js": [
-    "/assets/Link.ad8ac02e.js",
+    "/assets/Link.2fafc10b.js",
     "/assets/Link.3f81ee1f.css"
   ],
   "node_modules/naive-ui/es/avatar/src/Avatar.js": [
-    "/assets/Link.ad8ac02e.js",
+    "/assets/Link.2fafc10b.js",
     "/assets/Link.3f81ee1f.css"
   ],
   "node_modules/naive-ui/es/list/src/styles/index.cssr.js": [
-    "/assets/Link.ad8ac02e.js",
+    "/assets/Link.2fafc10b.js",
     "/assets/Link.3f81ee1f.css"
   ],
   "node_modules/naive-ui/es/list/src/List.js": [
-    "/assets/Link.ad8ac02e.js",
+    "/assets/Link.2fafc10b.js",
     "/assets/Link.3f81ee1f.css"
   ],
   "node_modules/naive-ui/es/list/src/ListItem.js": [
-    "/assets/Link.ad8ac02e.js",
+    "/assets/Link.2fafc10b.js",
     "/assets/Link.3f81ee1f.css"
   ],
   "node_modules/naive-ui/es/thing/src/styles/index.cssr.js": [
-    "/assets/Link.ad8ac02e.js",
+    "/assets/Link.2fafc10b.js",
     "/assets/Link.3f81ee1f.css"
   ],
   "node_modules/naive-ui/es/thing/src/Thing.js": [
-    "/assets/Link.ad8ac02e.js",
+    "/assets/Link.2fafc10b.js",
     "/assets/Link.3f81ee1f.css"
   ],
   "node_modules/@vicons/ionicons5/es/LinkOutline.js": [
-    "/assets/Link.ad8ac02e.js",
+    "/assets/Link.2fafc10b.js",
     "/assets/Link.3f81ee1f.css"
   ],
   "node_modules/@vicons/ionicons5/es/PeopleOutline.js": [
-    "/assets/Link.ad8ac02e.js",
+    "/assets/Link.2fafc10b.js",
     "/assets/Link.3f81ee1f.css"
   ],
   "node_modules/@vicons/ionicons5/es/StarOutline.js": [
-    "/assets/Link.ad8ac02e.js",
+    "/assets/Link.2fafc10b.js",
     "/assets/Link.3f81ee1f.css"
   ],
   "src/pages/Link.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/Link.ad8ac02e.js",
+    "/assets/Link.2fafc10b.js",
     "/assets/Link.3f81ee1f.css"
   ],
   "src/pages/Link.vue": [
-    "/assets/Link.ad8ac02e.js",
+    "/assets/Link.2fafc10b.js",
     "/assets/Link.3f81ee1f.css"
   ],
   "node_modules/naive-ui/es/divider/src/styles/index.cssr.js": [
-    "/assets/Moments.34f2c091.js",
+    "/assets/Moments.e0f6ca39.js",
     "/assets/Moments.0aaaa237.css"
   ],
   "node_modules/naive-ui/es/divider/src/Divider.js": [
-    "/assets/Moments.34f2c091.js",
+    "/assets/Moments.e0f6ca39.js",
     "/assets/Moments.0aaaa237.css"
   ],
   "node_modules/@vicons/ionicons5/es/LogoGithub.js": [
-    "/assets/Moments.34f2c091.js",
+    "/assets/Moments.e0f6ca39.js",
     "/assets/Moments.0aaaa237.css"
   ],
   "node_modules/viewerjs/dist/viewer.css": [
-    "/assets/Moments.34f2c091.js",
+    "/assets/Moments.e0f6ca39.js",
     "/assets/Moments.0aaaa237.css"
   ],
   "node_modules/viewerjs/dist/viewer.esm.js": [
-    "/assets/Moments.34f2c091.js",
+    "/assets/Moments.e0f6ca39.js",
     "/assets/Moments.0aaaa237.css"
   ],
   "node_modules/v-viewer/dist/index.es.js": [
-    "/assets/Moments.34f2c091.js",
+    "/assets/Moments.e0f6ca39.js",
     "/assets/Moments.0aaaa237.css"
   ],
   "src/components/home/Jgg.vue?vue&type=style&index=0&lang.css": [
-    "/assets/Moments.34f2c091.js",
+    "/assets/Moments.e0f6ca39.js",
     "/assets/Moments.0aaaa237.css"
   ],
   "src/components/home/Jgg.vue": [
-    "/assets/Moments.34f2c091.js",
+    "/assets/Moments.e0f6ca39.js",
     "/assets/Moments.0aaaa237.css"
   ],
   "src/pages/Moments.vue?vue&type=style&index=0&lang.css": [
-    "/assets/Moments.34f2c091.js",
+    "/assets/Moments.e0f6ca39.js",
     "/assets/Moments.0aaaa237.css"
   ],
   "src/pages/Moments.vue": [
-    "/assets/Moments.34f2c091.js",
+    "/assets/Moments.e0f6ca39.js",
     "/assets/Moments.0aaaa237.css"
   ],
   "src/pages/Test.vue?vue&type=style&index=0&lang.css": [
-    "/assets/Test.76143c0f.js",
+    "/assets/Test.278ae8a0.js",
     "/assets/Test.c1e219b4.css"
   ],
   "src/pages/Test.vue": [
-    "/assets/Test.76143c0f.js",
+    "/assets/Test.278ae8a0.js",
     "/assets/Test.c1e219b4.css"
   ],
   "src/pages/Tt.vue?vue&type=style&index=0&lang.css": [
-    "/assets/Tt.e23c60ce.js",
+    "/assets/Tt.d29a9302.js",
     "/assets/Tt.f895e9da.css"
   ],
   "src/pages/Tt.vue": [
-    "/assets/Tt.e23c60ce.js",
+    "/assets/Tt.d29a9302.js",
     "/assets/Tt.f895e9da.css"
   ],
   "src/pages/[...notFound].vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/_...notFound_.89625401.js",
+    "/assets/_...notFound_.ccb91f1d.js",
     "/assets/_...notFound_.314ab435.css"
   ],
   "src/pages/[...notFound].vue": [
-    "/assets/_...notFound_.89625401.js",
+    "/assets/_...notFound_.ccb91f1d.js",
     "/assets/_...notFound_.314ab435.css"
   ],
   "src/pages/posts/dev/20180309-1.md": [
-    "/assets/20180309-1.dd8059b6.js"
+    "/assets/20180309-1.a4c88399.js"
   ],
   "src/pages/posts/dev/20180309-2.md": [
-    "/assets/20180309-2.c0c99cba.js"
+    "/assets/20180309-2.8c4a6352.js"
   ],
   "src/pages/posts/dev/20180309-3.md": [
-    "/assets/20180309-3.15cb7a3d.js"
+    "/assets/20180309-3.b43856b5.js"
   ],
   "src/pages/posts/dev/20180309-4.md": [
-    "/assets/20180309-4.b1cba6e4.js"
+    "/assets/20180309-4.1399deb5.js"
   ],
   "src/pages/posts/dev/20201230.md": [
-    "/assets/20201230.9ec802d6.js"
+    "/assets/20201230.6750d66a.js"
   ],
   "src/pages/posts/dev/20210103.md": [
-    "/assets/20210103.4d12dcbf.js"
+    "/assets/20210103.61e1d17d.js"
   ],
   "src/pages/posts/dev/20210423.md": [
-    "/assets/20210423.9cbafa2e.js"
+    "/assets/20210423.697fddaf.js"
   ],
   "src/pages/posts/dev/20210430.md": [
-    "/assets/20210430.46f54e59.js"
+    "/assets/20210430.5fb67221.js"
   ],
   "src/pages/posts/dev/20210507.md": [
-    "/assets/20210507.dfaee865.js"
+    "/assets/20210507.257940c2.js"
   ],
   "src/pages/posts/dev/20210608.md": [
-    "/assets/20210608.e9e35f7f.js"
+    "/assets/20210608.e1adae7d.js"
   ],
   "src/pages/posts/dev/20210622.md": [
-    "/assets/20210622.a47829fa.js"
+    "/assets/20210622.09759a05.js"
   ],
   "src/pages/posts/dev/20210917.md": [
-    "/assets/20210917.65aecee2.js"
+    "/assets/20210917.af9d6f6c.js"
   ],
   "src/pages/posts/dev/20220317.md": [
-    "/assets/20220317.9916b2ee.js"
+    "/assets/20220317.71c4749f.js"
   ],
   "src/pages/posts/dev/20220420.md": [
-    "/assets/20220420.64f27f48.js"
+    "/assets/20220420.08fbaee7.js"
   ],
   "src/pages/posts/dev/20220708.md": [
-    "/assets/20220708.b1d90b19.js"
+    "/assets/20220708.4b0c50c1.js"
   ],
   "src/pages/posts/dev/20220721.md": [
-    "/assets/20220721.6900a5c8.js"
+    "/assets/20220721.c23da17e.js"
   ],
   "src/pages/posts/dev/20220908.md": [
-    "/assets/20220908.4587ecd7.js"
+    "/assets/20220908.cc28cb6a.js"
   ],
   "src/pages/posts/dev/20220922.md": [
-    "/assets/20220922.5066a1e0.js"
+    "/assets/20220922.933e44ed.js"
   ],
   "src/pages/posts/dev/20230612.md": [
-    "/assets/20230612.ae7bd6d2.js"
+    "/assets/20230612.78a9d944.js"
   ],
   "src/pages/posts/dev/20230test.md": [
-    "/assets/20230test.94106924.js"
+    "/assets/20230test.4da5dffb.js"
   ],
   "src/pages/posts/essay/20210210.md": [
-    "/assets/20210210.e4b7d120.js"
+    "/assets/20210210.9ea046e2.js"
   ],
   "src/pages/posts/essay/20210420.md": [
-    "/assets/20210420.1832f2ff.js"
+    "/assets/20210420.7853ad6e.js"
   ],
   "src/pages/posts/essay/20210714.md": [
-    "/assets/20210714.68b7fc4a.js"
+    "/assets/20210714.ee871fd3.js"
   ],
   "src/pages/posts/essay/20211224.md": [
-    "/assets/20211224.f92f8c37.js"
+    "/assets/20211224.fafe49c5.js"
   ],
   "src/pages/posts/essay/20220511.md": [
-    "/assets/20220511.be36b208.js"
+    "/assets/20220511.52389e9e.js"
   ],
   "src/pages/posts/essay/20221215.md": [
-    "/assets/20221215.20ace954.js"
+    "/assets/20221215.9a081452.js"
   ],
   "src/pages/posts/essay/20221226.md": [
-    "/assets/20221226.2933688f.js"
+    "/assets/20221226.162c71eb.js"
   ],
   "src/pages/posts/essay/20230407.md": [
-    "/assets/20230407.6f2c4c0a.js"
+    "/assets/20230407.c792e790.js"
   ],
   "src/pages/posts/essay/20230608.md": [
-    "/assets/20230608.3f652563.js"
+    "/assets/20230608.ef08cfd8.js"
   ],
   "src/pages/posts/essay/20240408.md": [
-    "/assets/20240408.e6051510.js"
+    "/assets/20240408.e1181054.js"
   ]
 }
